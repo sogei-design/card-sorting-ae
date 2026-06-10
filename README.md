@@ -2,8 +2,8 @@
 
 Card sorting per validare la nuova architettura informativa del portale Agenzia delle Entrate.
 
-**Owner:** CXMSogei (migrato da roccajoe il 09/06/2026)  
-**App:** https://cxmsogei.github.io/card-sorting-ae/
+**Owner:** sogei-design (migrato da roccajoe il 09/06/2026)  
+**App:** https://sogei-design.github.io/card-sorting-ae/
 
 ## Stack
 - Frontend: HTML/CSS/JS vanilla
